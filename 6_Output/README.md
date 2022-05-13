@@ -6,3 +6,5 @@
 ![Wiper Speed is moderate](https://github.com/BhargavaRaj/M3_Wiper-Control-System/blob/bc54915c934b551af1f396d4b73b0b2975124531/6_Output/Lower%20Wiper%20Speed.png)
 ## High Wiper Speed
 ![High Wiper Speed](https://github.com/BhargavaRaj/M3_Wiper-Control-System/blob/27af16f59cda60621ee7dfd78e60020691509b1a/6_Output/High%20Wiper%20Speed.png)
+## Off State
+![Off State](https://github.com/BhargavaRaj/M3_Wiper-Control-System/blob/34ccd75e9ebad71d777c5cde2c020706b7962101/6_Output/Off%20State.png)
