@@ -18,7 +18,10 @@ It can be incorporated in car, trucks, etc
 ### Why 
 To keep the windscreen clean enough to give adequate view at all times.
 ### How 
-By using STM32F407VG microprocessor       Swot Analysis       ## Detail requirements
+By using STM32F407VG microprocessor       
+### Swot Analysis
+![Swot Analysis](https://github.com/BhargavaRaj/M3_Wiper-Control-System/blob/d7640b7406c72c18fbeee72a3aeb75494aec78aa/1_Requirements/Swot%20Analysis.png)
+## Detail requirements
 ## High Level Requirements
 | ID | Description | Requirement | Status | 
 | ----- | ----- | ------- | ---------|
