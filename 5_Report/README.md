@@ -11,6 +11,12 @@ STM32 CUBE IDE
 COMPONENTS
 
 STM32F4O7VG MICROCONTROLLER BOARD
+## FEATURES OF STM32F407VG MICROCONTROLLER
+Up to 1 Mbyte of Flash memory.
+
+Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+
+512 bytes of OTP memory.
 ## 4W's & 1H
 ### What
 Windscreen wipers are necessary for maintaining sufficient view for the driver, especially in modern high-speed cars.
